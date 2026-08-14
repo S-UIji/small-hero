@@ -3,6 +3,9 @@
 /android/
 .nomedia
 
+# Local development documents
+/docs/
+
 # Godot-specific ignores
 .import/
 export.cfg
